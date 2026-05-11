@@ -20,6 +20,3 @@ Completed array object operations:
 ## Tools Used
 - JavaScript
 - VS Code
-
-## Author
-Your Name
