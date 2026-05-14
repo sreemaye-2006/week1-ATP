@@ -1,4 +1,5 @@
-# JavaScript Practice Assignments
+# ATP WEEK-1
+
 
 This repository contains basic JavaScript programming exercises structured by weeks and days. 
 
@@ -22,8 +23,5 @@ Located in `week-1/day-2/`
 
 - **`employeeArrayOperations.js`**: Practice with complex array operations using `splice()`. Covers adding, deleting, and updating nested object data within an array of employee records.
 
-## Usage
-To run any of the scripts, navigate to the specific directory and use Node.js:
-```bash
-node week-1/day-1/biggestOfTwo.js
+
 ```
