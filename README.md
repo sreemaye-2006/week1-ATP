@@ -1,22 +1,29 @@
-# JavaScript Practice Tasks
+# JavaScript Practice Assignments
 
-## Day 1
-Completed basic JavaScript programs:
-- Find bigger number in 2 numbers
-- Find bigger number in 3 numbers
-- Find sum of array
-- Find smallest element in array
-- Function to find biggest number
-- Function to find sum of array
-- Search element in array
+This repository contains basic JavaScript programming exercises structured by weeks and days. 
 
-## Day 2
-Completed array object operations:
-- Created employees array with employee details
-- Updated employee data using splice()
-- Deleted employee data using splice()
-- Updated marks inside nested arrays
+## Structure
 
-## Tools Used
-- JavaScript
-- VS Code
+### Week 1
+
+#### Day 1: Basic JavaScript Fundamentals
+Located in `week-1/day-1/`
+
+- **`biggestOfTwo.js`**: Find the larger number between two given numbers.
+- **`biggestOfThree.js`**: Find the largest number among three given numbers.
+- **`sumOfArray.js`**: Calculate the sum of all elements in an array.
+- **`smallestInArray.js`**: Find the smallest element in an array.
+- **`biggestOfThreeFunction.js`**: Function that takes 3 numbers as arguments and logs the biggest.
+- **`sumOfArrayFunction.js`**: Function that receives an array as an argument and returns the sum.
+- **`searchArrayFunction.js`**: Function that searches for an element in an array and returns its index.
+
+#### Day 2: Arrays and Object Operations
+Located in `week-1/day-2/`
+
+- **`employeeArrayOperations.js`**: Practice with complex array operations using `splice()`. Covers adding, deleting, and updating nested object data within an array of employee records.
+
+## Usage
+To run any of the scripts, navigate to the specific directory and use Node.js:
+```bash
+node week-1/day-1/biggestOfTwo.js
+```
