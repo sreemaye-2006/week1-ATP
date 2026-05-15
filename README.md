@@ -24,4 +24,4 @@ Located in `week-1/day-2/`
 - **`employeeArrayOperations.js`**: Practice with complex array operations using `splice()`. Covers adding, deleting, and updating nested object data within an array of employee records.
 
 
-```
+
